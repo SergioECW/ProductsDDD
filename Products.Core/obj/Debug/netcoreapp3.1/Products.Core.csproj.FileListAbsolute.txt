@@ -1,0 +1,10 @@
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\bin\Debug\netcoreapp3.1\Products.Core.deps.json
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\bin\Debug\netcoreapp3.1\Products.Core.dll
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\bin\Debug\netcoreapp3.1\Products.Core.pdb
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\obj\Debug\netcoreapp3.1\Products.Core.csproj.AssemblyReference.cache
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\obj\Debug\netcoreapp3.1\Products.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\obj\Debug\netcoreapp3.1\Products.Core.AssemblyInfoInputs.cache
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\obj\Debug\netcoreapp3.1\Products.Core.AssemblyInfo.cs
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\obj\Debug\netcoreapp3.1\Products.Core.csproj.CoreCompileInputs.cache
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\obj\Debug\netcoreapp3.1\Products.Core.dll
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Core\obj\Debug\netcoreapp3.1\Products.Core.pdb

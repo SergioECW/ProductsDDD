@@ -1,0 +1,16 @@
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\bin\Debug\netcoreapp3.1\Products.Infrastucture.deps.json
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\bin\Debug\netcoreapp3.1\Products.Infrastucture.runtimeconfig.json
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\bin\Debug\netcoreapp3.1\Products.Infrastucture.runtimeconfig.dev.json
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\bin\Debug\netcoreapp3.1\Products.Infrastucture.dll
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\bin\Debug\netcoreapp3.1\Products.Infrastucture.pdb
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\bin\Debug\netcoreapp3.1\Products.Core.dll
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\bin\Debug\netcoreapp3.1\Products.Core.pdb
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\obj\Debug\netcoreapp3.1\Products.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\obj\Debug\netcoreapp3.1\Products.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\obj\Debug\netcoreapp3.1\Products.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\obj\Debug\netcoreapp3.1\Products.Infrastucture.AssemblyInfo.cs
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\obj\Debug\netcoreapp3.1\Products.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\obj\Debug\netcoreapp3.1\Products.Infrastucture.csproj.CopyComplete
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\obj\Debug\netcoreapp3.1\Products.Infrastucture.dll
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\obj\Debug\netcoreapp3.1\Products.Infrastucture.pdb
+C:\Users\Aqui\source\repos\ProductsAPI\Products.Infrastucture\obj\Debug\netcoreapp3.1\Products.Infrastucture.genruntimeconfig.cache
